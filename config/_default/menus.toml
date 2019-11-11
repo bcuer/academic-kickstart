@@ -9,69 +9,24 @@
   weight = 10
 
 [[main]]
-  name = "Publications"
-  url = "#featured_1"
+  name = "Posts"
+  url = "#posts"
   weight = 20
-  
+
 [[main]]
-  name = "Talks"
-  url = "#talks_1"
+  name = "Projects"
+  url = "#projects"
   weight = 30
-  
+
 [[main]]
-  name = "Funware"
-  url = "#funware_2"
+  name = "Publications"
+  url = "#featured"
   weight = 40
-
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
-
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
-
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
-
-#[[main]]
-#  name = "Tutorials"
-#  url = "/tutorial/"
-#  weight = 50
-
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 60
 
 [[main]]
   name = "Contact"
-  url = "#contact_1"
+  url = "#contact"
   weight = 60
-
-# example dropdown menu blogroll
-  
-#[[main]]
-#  name = "Blogroll"
-#  identifier = "blogs"
-#  url = "#"
-#  weight = 80
-  
-#[[main]]
-#  name = "R-Bloggers"
-#  parent = "blogs"
-#  url = "https://www.r-bloggers.com/"
-#  weight = 1
-
-#[[main]]
-#  name = "Andrew Gelman"
-#  parent = "blogs"
-#  url = "https://statmodeling.stat.columbia.edu/"
-#  weight = 1
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
