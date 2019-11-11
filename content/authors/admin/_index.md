@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Joint Models for Longitudinal and Survival Data
+- Biostatistics
+- Joint Modelling
 - Missing Data
 - Competing Risks
 - HRQoL
