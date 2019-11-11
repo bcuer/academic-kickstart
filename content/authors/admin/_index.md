@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Biostatistics (2017-)
+  - course: PhD in Biostatistics (Oct 2017-)
     institution: Montpellier Cancer Institute (ICM), France
   - course: MSc in Biostatistics
     institution: University of Montpellier, France
@@ -71,8 +71,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-# Biography
 
 I am currently a PhD student under the supervision of Caroline Mollevi and [Célia Touraine](https://www.researchgate.net/profile/Celia_Touraine) at the Montpellier Cancer Institute ([ICM](https://www.icm.unicancer.fr/en)), France. I am working on different statistical approaches for handling missing data in longitudinal analysis.
 
