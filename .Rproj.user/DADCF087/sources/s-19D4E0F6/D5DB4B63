@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "4258786862",
+    "hash" : "0",
     "id" : "D5DB4B63",
-    "lastKnownWriteTime" : 1580671881,
-    "last_content_update" : 1580671881289,
+    "lastKnownWriteTime" : 1580671914,
+    "last_content_update" : 1580671914991,
     "path" : "~/Documents/GitHub/academic-kickstart/content/authors/admin/_index.md",
     "project_path" : "content/authors/admin/_index.md",
     "properties" : {
-        "cursorPosition" : "2,19",
+        "cursorPosition" : "2,20",
         "scrollLine" : "0"
     },
     "read_only" : false,
