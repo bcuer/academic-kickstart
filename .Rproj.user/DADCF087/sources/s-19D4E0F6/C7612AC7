@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "C7612AC7",
-    "lastKnownWriteTime" : 1580673816,
-    "last_content_update" : 1580673816352,
+    "lastKnownWriteTime" : 1580682147,
+    "last_content_update" : 1580682147534,
     "path" : "~/Documents/GitHub/academic-kickstart/config/_default/menus.toml",
     "project_path" : "config/_default/menus.toml",
     "properties" : {
         "cursorPosition" : "23,12",
-        "scrollLine" : "9"
+        "scrollLine" : "10"
     },
     "read_only" : false,
     "read_only_alternatives" : [
