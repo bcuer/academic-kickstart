@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/GitHub/academic-kickstart/config/_default",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
