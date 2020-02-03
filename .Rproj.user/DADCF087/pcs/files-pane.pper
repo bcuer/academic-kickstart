@@ -1,8 +1,12 @@
 {
-    "path" : "~/Documents/GitHub/academic-kickstart/config/_default",
+    "path" : "~/Documents/GitHub/academic-kickstart/config",
     "sortOrder" : [
         {
-            "ascending" : true,
+            "ascending" : false,
+            "columnIndex" : 3
+        },
+        {
+            "ascending" : false,
             "columnIndex" : 2
         }
     ]
