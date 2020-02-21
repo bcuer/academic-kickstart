@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3803194702",
+    "hash" : "0",
     "id" : "A6D5CC84",
-    "lastKnownWriteTime" : 1572412940,
-    "last_content_update" : 1572412940,
+    "lastKnownWriteTime" : 1572484192,
+    "last_content_update" : 1572484192,
     "path" : "~/Documents/GitHub/academic-kickstart/content/talk/_index.md",
     "project_path" : "content/talk/_index.md",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
