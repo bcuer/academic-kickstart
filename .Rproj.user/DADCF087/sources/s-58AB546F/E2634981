@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1582292352119.000,
+    "created" : 1582292759392.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "A37FB90D",
-    "lastKnownWriteTime" : 1582292513,
-    "last_content_update" : 1582292513596,
+    "id" : "E2634981",
+    "lastKnownWriteTime" : 1582292696,
+    "last_content_update" : 1582292696,
     "path" : "~/Documents/GitHub/academic-kickstart/content/talk/ISCB40_JULY_2019/index.md",
     "project_path" : "content/talk/ISCB40_JULY_2019/index.md",
     "properties" : {
-        "cursorPosition" : "76,0",
-        "scrollLine" : "50"
+        "cursorPosition" : "26,54",
+        "scrollLine" : "15"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 9,
+    "relative_order" : 2,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"

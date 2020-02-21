@@ -24,7 +24,7 @@ event_url = "https://kuleuvencongres.be/iscb40"
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "Joint model for <b>multiple longitudinal</b> outcomes, <b>multiple events</b>, with the occurrence of <b>intermediate events</b> and <b>Bayesian shrinkage</b>."
+summary = "Summary <b>gras</b> outcomes, <b>gras</b>,  <b>igras</b> and <b>Bayesian shrinkage</b>."
 
 # Is this a featured talk? (true/false)
 featured = false

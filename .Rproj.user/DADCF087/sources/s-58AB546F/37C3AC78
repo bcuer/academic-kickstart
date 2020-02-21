@@ -1,12 +1,12 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1582291035061.000,
+    "created" : 1582292835589.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "A6D5CC84",
+    "hash" : "2113622988",
+    "id" : "37C3AC78",
     "lastKnownWriteTime" : 1572484192,
     "last_content_update" : 1572484192,
     "path" : "~/Documents/GitHub/academic-kickstart/content/talk/_index.md",
@@ -18,7 +18,7 @@
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 7,
+    "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"
