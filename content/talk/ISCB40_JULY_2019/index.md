@@ -17,7 +17,7 @@ authors = []
 location = "Ville, Pays"
 
 # Name of event and optional event URL.
-event = "nom congres"
+event = "Nom congres coming soon"
 event_url = "https://kuleuvencongres.be/iscb40"
 
 # Abstract. What's your talk about?
@@ -42,7 +42,7 @@ tags = []
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "ISCB_2019.pdf"
+url_slides = "CS.pdf"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
