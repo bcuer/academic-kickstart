@@ -11,8 +11,8 @@ title = "CV"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 80
+weight = 5
 
 +++
 
-My CV (including a full list of publications, presentations, collaborations and grants) is available in [PDF](static/files/BCUER_CV.pdf) form. (Last updated: Month 8, 2020)
+My CV (including a full list of publications, presentations, collaborations and grants) is available in [PDF](cv/myCv.pdf) form. (Last updated: January 8, 2020)
