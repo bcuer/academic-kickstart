@@ -1,5 +1,5 @@
 +++
-title = "Title"
+title = "Modèles conjoints avec risques concurrents pour l’analyse longitudinale de la qualité de vie en oncologie en présence de différents types de sorties d’études"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -24,7 +24,7 @@ event_url = "http://gdr-stat-sante.math.cnrs.fr/spip/spip.php?rubrique55"
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "Summary <b>gras</b> outcomes, <b>gras</b>,  <b>igras</b> and <b>Bayesian shrinkage</b>."
+summary = ""
 
 # Is this a featured talk? (true/false)
 featured = false
