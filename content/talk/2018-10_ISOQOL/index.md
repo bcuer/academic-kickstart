@@ -74,13 +74,16 @@ math = true
 <b>Aims</b>
 Health-related quality of life (HRQoL) has become a crucial endpoint in cancer clinical trials but missing data can compromise its longitudinal analysis. Missingness can depend only on observed characteristics or HRQoL (MAR assumption), or additionally on unobserved HRQoL (MNAR assumption).
 Our objective was to explore and compare several approaches to longitudinally model HRQoL data with potentially informative drop-out (subsequent to HRQoL deterioration) in the PRODIGE5/ACCORD17 clinical trial.
+
 <b>Methods</b>
 In this trial, HRQoL were assessed using the EORTC QLQ-C30 questionnaire in 267 patients with advanced oesophageal cancer receiving FOLFOX or fluorouracil-cisplatin.
 We have first used linear mixed models (LMMs) which produce unbiased estimates under the MAR assumption. Assuming a MNAR assumption, we have considered the joint distribution of the HRQoL score and the missingness process. It decomposes in two ways leading to pattern-mixture models (PMMs) or selection models (SMs). PMMs were mixtures of the conditional distribution of the HRQoL score given the pattern of drop-out weighted by the probability of drop-out in each pattern. SMs factored the joint distribution into the HRQoL score distribution and the conditional distribution of the missingness process given the HRQoL scores.
 <b>Results</b>
+
 At baseline and at 12 months (6th assessment), the compliance was 119/134 (89%) and 48/101 (48%) in the FOLFOX arm and 120/133 (90%) and 44/99 (44%) in the fluorouracil-cisplatin arm, respectively.
 Using LMMs (MAR assumption), we have obtained estimates including time and arm effects.
 Using the PMM approach (MNAR assumption), we have considered 6 patterns corresponding to the time of drop-out. The HRQoL score were modeled using a mixture of LMMs, thus we have calculated weighted estimates and compared them to the estimates from the LMM approach.
 Using the SM approach, we have modeled the drop-out probability using a logistic regression depending on the last (observed) and current (unobserved) HRQoL scores. In this case, the unobserved score coefficient allowed to test the MNAR assumption.
 <b>Conclusions</b>
+
 Although PMMs and SMs account for informative drop-out contrary to LMMs, they also rely on untestable modelling assumptions. This work has allowed to better understand them. We have also illustrated the advantages/drawbacks of PMMs and SMs regarding clinical interpretation.
