@@ -3,8 +3,8 @@ title = "Handling informative dropout in longitudinal analysis of health-related
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2018-26-15T14:24:00
-#date_end = 2018-26-15T14:42:00
+date = 2019-07-15T14:24:00
+#date_end = 2019-07-15T14:42:00
 all_day = true
 
 # Schedule page publish date (NOT talk date).
@@ -70,4 +70,7 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Right"
 +++
-dd
+
+Détails
+
+Blablabla
