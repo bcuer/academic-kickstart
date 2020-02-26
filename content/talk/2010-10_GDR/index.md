@@ -17,8 +17,8 @@ authors = []
 location = "Ville, Pays"
 
 # Name of event and optional event URL.
-event = "Nom congres coming soon"
-event_url = "https://kuleuvencongres.be/iscb40"
+event = "GDR « Statistiques et santé »"
+event_url = "http://gdr-stat-sante.math.cnrs.fr/spip/spip.php?rubrique55"
 
 # Abstract. What's your talk about?
 abstract = ""
