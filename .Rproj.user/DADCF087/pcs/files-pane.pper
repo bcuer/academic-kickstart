@@ -1,12 +1,12 @@
 {
-    "path" : "~/Documents/GitHub/academic-kickstart/content/home",
+    "path" : "~/Documents/GitHub/academic-kickstart/content/talk/ISCB40_JULY_2019",
     "sortOrder" : [
         {
-            "ascending" : false,
+            "ascending" : true,
             "columnIndex" : 3
         },
         {
-            "ascending" : false,
+            "ascending" : true,
             "columnIndex" : 2
         }
     ]
