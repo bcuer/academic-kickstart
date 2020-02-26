@@ -15,4 +15,4 @@ weight = 2
 
 +++
 
-My CV (including a full list of publications, presentations, collaborations and grants) is available in [PDF](pdf/BCUER_CV.pdf) form. (Last updated: January 8, 2020)
+My CV is available in [PDF](pdf/BCUER_CV.pdf) form. (Last updated: January 2020)
