@@ -1,5 +1,5 @@
 +++
-title = "Title"
+title = "Handling informative dropout in longitudinal analysis of health-related quality of life"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -14,17 +14,17 @@ publishDate = 2017-01-01T00:00:00
 authors = []
 
 # Location of event.
-location = "Ville, Pays"
+location = "Dublin, Ireland"
 
 # Name of event and optional event URL.
-event = "Nom congres coming soon"
-event_url = "https://kuleuvencongres.be/iscb40"
+event = "ISOQOL"
+event_url = "https://www.isoqol.org"
 
 # Abstract. What's your talk about?
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "Summary <b>gras</b> outcomes, <b>gras</b>,  <b>igras</b> and <b>Bayesian shrinkage</b>."
+summary = "<b>Joint modelling</b> for the longitudinal analysis of <b>HRQoL</b> in presence of <b>informative dropout : application on data from the oesophageal cancer <b>clinical trial</b> PRODIGE5/ACCORD17."
 
 # Is this a featured talk? (true/false)
 featured = false
