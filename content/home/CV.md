@@ -15,4 +15,4 @@ weight = 40
 
 +++
 
-My CV is available in [PDF](pdf/BCUER_CV.pdf) form. (Last updated: January 2020)
+My CV is available in [PDF](pdf/BCUER_CV.pdf) form. (Last updated: January 2021)
